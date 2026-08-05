@@ -106,11 +106,4 @@ Swiggy-Excel-Dashboard
 
 🎯 Aspiring Data Analyst
 
-### Connect with me
-
-- 💼 LinkedIn: *(Add your LinkedIn profile link here)*
-- 💻 GitHub: *(Add your GitHub profile link here)*
-
----
-
 ⭐ If you found this project useful, consider giving it a **Star** on GitHub!
