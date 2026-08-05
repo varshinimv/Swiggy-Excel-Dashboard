@@ -63,7 +63,7 @@ The dashboard enables users to monitor sales trends, customer ratings, order per
 > Upload a screenshot of your dashboard as **dashboard.png** and it will appear below.
 
 ```text
-![Dashboard Preview](dashboard.png)
+(dashboard.pnghttps://drive.google.com/file/d/1d1p1r-gasC107s5gCNEXFmKumOgJBezc/view?usp=drivesdk)
 ```
 
 ---
