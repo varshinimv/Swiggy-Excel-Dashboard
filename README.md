@@ -58,26 +58,6 @@ The dashboard enables users to monitor sales trends, customer ratings, order per
 
 ---
 
-## 📷 Dashboard Preview
-
-> Upload a screenshot of your dashboard as **dashboard.png** and it will appear below.
-
-```text
-(dashboard.pnghttps://drive.google.com/file/d/1d1p1r-gasC107s5gCNEXFmKumOgJBezc/view?usp=drivesdk)
-```
-
----
-
-## 📂 Project Files
-
-```
-Swiggy-Excel-Dashboard
-│── Swiggy Dashboard.xlsx
-│── dashboard.png
-│── README.md
-```
-
----
 
 ## 💡 Business Insights
 
