@@ -2,6 +2,7 @@
 
 An interactive **Sales Dashboard** built in **Microsoft Excel** to analyze Swiggy sales data and generate meaningful business insights using Pivot Tables, Charts, KPI Cards, and Slicers.
 
+Excel Project File:https://1drv.ms/x/c/0ffb62a6472da327/IQBEGwXaUb-eQ6NLQMhZ9951AfeWbi3DRBrrP61hTSfLzwQ?e=PJB5Ru
 ---
 
 ## 📌 Project Overview
