@@ -80,10 +80,4 @@ The dashboard enables users to monitor sales trends, customer ratings, order per
 
 ---
 
-## 👩‍💻 Author
-
-**Varshini M V**
-
-🎯 Aspiring Data Analyst
-
-⭐ If you found this project useful, consider giving it a **Star** on GitHub!
+## 👩‍💻 Authorl, consider giving it a **Star** on GitHub!
